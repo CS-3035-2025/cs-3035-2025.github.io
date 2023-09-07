@@ -2,13 +2,13 @@
 
 We will be using Git for accessing example code and submitting assignments on Github. Git is a very powerful tool, but the way we will use it for the course will be quite simple. In all cases, repositories will be created for you and you will "clone" the repositories to get started.
 
-You will need a [GitHub account](https://github.com/join) if you don't already have one to perform the steps below, and to submit assignments and challenges in the course.
+You will need a [GitHub account](https://github.com/join) if you don't already have one to perform the steps below, and to submit assignments in the course.
 
-We ask that you follow these below carefully, and only stray from them if you know what you are doing. There are lots of great git learning resources online like the free [Pro Git Book](https://git-scm.com/book/en/v2).
+We ask that you follow these below carefully, and only stray from them if you know what you are doing. There are lots of great git learning resources online, like the free [Pro Git Book](https://git-scm.com/book/en/v2).
 
 ## Create a new account specifically for this course
 
-You are required to have a Github account with a specific username for this course. Failure to comply will mean that your work will not be graded. Even if you already have a Github account, you must change the name of that account to comply to the naming convention below or create a new account with the specific username.
+You are required to have a GitHub account with a specific username for this course. Failure to comply will mean that your work will not be graded. Even if you already have a Github account, you must change the name of that account to comply to the naming convention below or create a new account with the specific username.
 
 Your username must be **your unb login id** + UNB3035.
 
@@ -69,7 +69,7 @@ Assignments will be hosted and submitted on GitHub. You will need to follow the 
   - Right click on the top level directory of your project in your "Project" sidebar
   - Click Git -> Commit Directory...
   - Type in a descriptive commit message outlining your changes and click "commit"
-- Finally you can ***push*** your commits to GitHub to submit your challenge/assignment
+- Finally you can ***push*** your commits to GitHub to submit your assignment
   - Click the "Green arrow" on the toolbar
   - or, ```ctrl + shift + k``` on Windows
   - or, ```VCS -> Git -> Push```

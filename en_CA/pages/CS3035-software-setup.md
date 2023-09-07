@@ -22,19 +22,19 @@
 - We will be using IntelliJ for writing Code, and there are a number of helpful extensions that should be installed
 - [Download and Install IntelliJ Community Edition](https://www.jetbrains.com/idea/download/) - make sure it is Community Edition! Scroll down past the Ulitimate Edition.
 - Once you install you will need to associate a Java Development Toolkit
-- The easiest way to to do this is to create a new JavaFX project and download it automatically
-  - From the launch window choose "New Project"
+- The easiest way to do this is to create a new JavaFX project and download it automatically
+  - From the launch window, choose "New Project"
   - Choose "JavaFX" for the project type
   - Name the project anything you like
-  - For the JDK dropdown choose "Download JDK"
-  - From the list of available JDKs choose "Eclipse Temurin"
-  - Once it finishes downloading and opens your new project, try running it, you should get a notification that you need to download JavaFX
-  - Download JavaFX when you are prompted and wait patiently, eventually everything will be ready and you will be able to run the project
+  - For the JDK dropdown, choose "Download JDK"
+  - From the list of available JDKs choose "17.0.8 JetBrains"
+  - Once it finishes downloading and opens your new project, try running it; you should get a notification that you need to download JavaFX
+  - Download JavaFX when you are prompted and wait patiently, eventually, everything will be ready, and you will be able to run the project
 
 ### Install Scene Builder
 
 - Scene Builder is a JavaFX app for building JavaFX interfaces that can be integrated into IntelliJ
-- The easiest way to to do this is to create a new JavaFX project and download it automatically
+- The easiest way to do this is to create a new JavaFX project and download it automatically
   - From the launch window choose "New Project"
   - Choose "JavaFX" for the project type
   - Name the project anything you like

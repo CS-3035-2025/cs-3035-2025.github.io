@@ -27,7 +27,7 @@ The grading scheme and number of items in the grade (in parentheses) is tentativ
 - Group Video Presentation of Alternative UI Technology (1): 10% 
 - JavaFX Individual Project: 20%
 - Coding Tests (online/in-lab) (2 tests): 20% 
-- Theory Tests (Theory Test) (2 tests): 10%
+- Theory Tests (Theory Test) (2 tests): 20%
 
 ### Assignments
 
@@ -65,9 +65,9 @@ Theory tests will combine multiple-choice and short-answer questions.  You will 
 | 10/24| Theory Test #1 |
 | 10/26| Coding Test #1 |
 | 11/01| Last Day to Withdraw|
-| 11/01| Group Project Video|
-| 11/14| Assignment #3|
-| 11/22| Coding Test #2|
-| 11/28| Project (Individual)|
-| 12/07| Last Class |
-| TBA  | Theory Test #2 - During Exam Period |
+| 11/20| Group Project Video|
+| 11/21| Assignment #3|
+| 11/23| Coding Test #2|
+| 12/05| Project (Individual)|
+| 12/05| Last Class |
+| 12/09| Theory Test #2 - During Exam Period |

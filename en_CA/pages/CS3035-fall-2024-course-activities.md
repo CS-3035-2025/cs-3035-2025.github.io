@@ -81,5 +81,5 @@ Activities are coding assignments that are completed in two parts.
 | 11/18| Activity 9 due |
 | 11/25| Activity 10 due |
 | 12/05| Last Class |
-| 12/06| Project #2 due |
+| 12/06| Project 2 due |
 | 12/09| Theory Test #2 - During Exam Period |

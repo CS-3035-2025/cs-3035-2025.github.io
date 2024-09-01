@@ -44,26 +44,42 @@ Projects should be completed using the course software (TypeScript/SimpleKit, VS
 
 The group video presentation will require you to independently research and learn the basics of an alternative UI technology for another language (other than TypeScript/SimpleKit or Java). You will work with a group to create a short video presentation introducing the technology, its philosophy, and its basic use. You will also individually watch videos from other students in the class and prepare a short submission outlining what you have learned. A few videos may be selected for class review. 
 
-
 ### Quizzes
 
-Quizzes will combine multiple-choice, short-answer questions, and other similar short questions.  You will complete them during class time on Thursdays. The tests will cover any content covered in class or that has been assigned (e.g., online readings). 
+Quizzes will combine multiple-choice, short-answer questions, and other similar short questions touching on content from previous lectures.  You will complete them during class time on Thursdays. The tests will cover any content covered in class or that has been assigned (e.g., online readings). They will be completed via D2L.
 
-## Dates for Deliverables
+You must be in class to complete the quiz. Quizzes will start right at 10:00am and you will have a limited time to complete them, so arriving on time is very important.
+
+### Activities
+
+Activities are coding assignments that are completed in two parts. 
+
+**Part 1** should be completed in class on Thursdays and verified by your instructor before you leave class. 
+**Part 2** should be completed by the end of Monday and submitted to Github.
+
+## Important Dates and Deliverable Deliverables
 
 **NOTE: All dates are tentative and are used as general targets.** Date adjustments will be made as needed, giving you additional time to avoid major conflicts. Adjustments to these dates will be announced in lectures.  
 
 | Date | Item  |
 |------|-------|
-| 09/13| Practice Assignment |
-| 09/27| Assignment #1 |
-| 10/18| Assignment #2 |
-| 10/24| Theory Test #1 |
-| 10/26| Coding Test #1 |
-| 11/01| Last Day to Withdraw|
-| 11/20| Group Project Video|
-| 11/21| Assignment #3|
-| 11/23| Coding Test #2|
-| 12/05| Project (Individual)|
+| 09/13| Last day for adding courses |
+| 09/16| Activity 1 due |
+| 09/16| Activity 2 due |
+| 09/23| Activity 3 due |
+| 09/30| Truth and Reconciliation Day |
+| 09/31| Activity 4 due |
+| 10/07| Activity 5 due |
+| 10/08| Group Project Due |
+| 10/10| Group Project Watch/Q&A |
+| 10/14| Thanksgiving Monday |
+| 10/21| Activity 6 due |
+| 10/28| Activity 7 due |
+| 10/30| Project 1 due |
+| 11/04| Activity 8 due |
+| 11/11-15| Reading Week |
+| 11/18| Activity 9 due |
+| 11/25| Activity 10 due |
 | 12/05| Last Class |
+| 12/06| Project #2 due |
 | 12/09| Theory Test #2 - During Exam Period |

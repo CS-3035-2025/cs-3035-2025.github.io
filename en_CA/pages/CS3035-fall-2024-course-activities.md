@@ -9,7 +9,7 @@ This year the course is being co-taught by three instructors:
 
 ## Contact
 
-- A team message addressed to all three instructors is the preferred contact method. You can do this by clicking here: [Chat with instructors](https://teams.microsoft.com/l/chat/0/0?users=scottb@unb.ca;colin.brett@unb.ca;cole.campbell@unb.ca)
+- A team message addressed to all three instructors is the preferred contact method. You can do this by clicking here: [Chat with instructors](https://teams.microsoft.com/l/chat/0/0?users=scottb@unb.ca,colin.brett@unb.ca,cole.campbell@unb.ca)
 - Please allow up to one to two working days for response.
 - Asking questions on Teams may also allow your classmates or TA to help with questions regarding technology or other clarifications. So, this is highly encouraged. Please use the appropriate channel in our class Team for your question.
 

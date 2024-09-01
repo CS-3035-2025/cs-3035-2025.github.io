@@ -1,6 +1,6 @@
 # CS 3035 - Course Outline
 
-## 2023-2024 Fall Term
+## 2024-2025 Fall Term
 
 ## Description
 
@@ -32,15 +32,15 @@ All in-person lectures will (attempted to) be recorded, but will only be availab
 
 ## Instructor and Contact
 
-- For more detail on Contact please see the [contact details on the course website](CS3035-fall-2023-course-activities.md).
+- For more detail on Contact please see the [contact details on the course website](CS3035-fall-2024-course-activities.md).
 
 ## Course Work and Marking Scheme (Tentative)
 
-See [course work details](CS3035-fall-2023-course-activities.md#Course_Work_Details).
+See [course work details](CS3035-fall-2024-course-activities.md#Course_Work_Details).
 
 ## Text Books
 
-There is no official textbook for this course. Course slides, example code and online readings will be provided and referred to during clastime. Students are strongly encouraged to take notes as study aids.
+There is no official textbook for this course. Course slides, example code and online readings will be provided and referred to during classtime. Students are strongly encouraged to take notes as study aids.
 
 A new textbook is being prepared for this course, so some readings may be provided drawn from the textbook in progress.
 
@@ -63,27 +63,23 @@ A new textbook is being prepared for this course, so some readings may be provid
 
 ## Class Policies
 
-All students must be registered in order to attend lectures and receive credit for this course.
+All students must be registered to attend lectures and receive credit for this course.
 
 ### Attendance
 
-Attendance during the scheduled class time is important but not directly enforced. Some planned course activities and assessments will require your attendance during the scheduled meeting times, and will not be offered at other times. So your attendance will be reflected in your grade. Other class times will be used for demonstrations and question and answer times.
+Attendance during the scheduled class time is important but not directly enforced. Some planned course activities and assessments will require your attendance during the scheduled meeting times and will not be offered at other times. So, your attendance will be reflected in your grade. Other class times will be used for demonstrations and question and answer times.
 
 ### Late Assignments
 
-No late assignments will be accepted or marked without communication with a valid excuse well in advance of the due date of the assignment, unless a valid medical excuse and documentation is provided.
+No late assignments will be accepted or marked without communication with a valid excuse in advance of the due date of the assignment, or unless circumstances do not allow for communication. It is the responsibility of the student to notify the course instructors as soon as possible when they are unable to meet a deadline. 
 
 ### Missed Assignments
 
 See above (Late Assignments)
 
-### Final Exam Scheduling
-
-There will be a final test schedule by the university during the exam period. All activities will be completed during class time.  
-
 ### Missed Tests and Other In-Class Activities
 
-If a test, quiz or other in-class assessment is missed, students must contact the instructor and as soon as possible. If a valid reason is provided for the missed activity, grades will likely be shifted to other items in the same grade category. Rescheduling these activities will likely not be feasible.
+If a quiz or other in-class assessment is missed, students must contact the instructor and as soon as possible. If a valid reason is provided for the missed activity, grades will likely be shifted to other items in the same grade category. Rescheduling these activities will likely not be feasible.
 
 ## Academic Offences
 
@@ -107,9 +103,9 @@ In the case of plagiarism, the instructor must make every reasonable effort to d
 
 - If the instructor is satisfied that the plagiarism was the result of a genuine misunderstanding, the instructor shall complete an academic offence incident report in a form approved by the Registrar's Office, containing the student's name and the particulars of the incident, and submit to the Registrar who shall advise the appropriate Dean, and the Chair of the student's program or Department where applicable. The Registrar shall notify the student by registered letter and/or electronic mail of the regulations governing plagiarism, the possible consequences, the student's right to appeal, the right to appear before the appropriate appeals committee (Student Standing and Promotions Committee on the Fredericton campus and Senate Student Appeals Committee on the Saint John campus), and the procedures involved. The Registrar shall make available to the student a copy of the academic offence incident report and supporting documentation. While a case of plagiarism resulting from genuine misunderstanding will not be considered a student's first offence, a second plea of ignorance by the same student in response to a subsequent allegation of plagiarism will not be accepted; similarly, a subsequent incident report indicating that the alleged plagiarism is a result of genuine misunderstanding responding will be treated as an allegation of deliberate plagiarism. A student responding to the instructor's allegation must do so in writing within three weeks of the date of the Registrar's notification. The student is urged to submit to the appropriate appeals committee a written statement regarding the case.
 
-- In a first incident of plagiarism resulting from genuine misunderstanding, the instructor may permit the student to submit a genuine piece of work to be graded in place of the one plagiarized. If the student does not appeal, the time allowed for submission of work is three weeks from the date of the Registrar's letter of notification. In the case of an appeal, where the instructor's allegation is upheld, the period of time allowed for submission is as determined by the appropriate appeals committee.
+- In a first plagiarism incident resulting from genuine misunderstanding, the instructor may permit the student to submit a genuine piece of work to be graded in place of the one plagiarized. If the student does not appeal, the time allowed for submission of work is three weeks from the date of the Registrar's letter of notification. In the case of an appeal, where the instructor's allegation is upheld, the period of time allowed for submission is as determined by the appropriate appeals committee.
 
-- If, in the view of the instructor the plagiarism was deliberate, the instructor shall complete an incident report in a form approved by the Office of the Registrar, containing the student’s name and the particulars of the incident, and shall submit to the Registrar who will advise the Dean of the Faculty concerned and the Chair of the student's program or department where applicable. The Registrar shall notify the student by registered letter and/or electronic mail of the regulations governing plagiarism, the possible consequences, the student’s right to appeal, the right to appear before the appropriate appeals committee, and the procedures involved. A student appealing the charge of an academic offence must do so in writing within three weeks of the date of the Registrar's letter of notification. On receiving an incident report alleging an act of deliberate plagiarism, or on receiving an incident report alleging a second commission of plagiarism by the student which is determined viewed by the instructor to be as a result of genuine misunderstanding, the Registrar shall refer the matter for a hearing to the appropriate appeals committee. A student who wishes to respond to this allegation is urged to submit to the appeals committee a written statement regarding the case, within three weeks of the date of the Registrar’s letter of notification. The Registrar shall inform the student by registered letter or electronic mail of the referral to the appeals committee, and the wish of the Committee that the student be present when the case is heard.
+- If, in the view of the instructor the plagiarism was deliberate, the instructor shall complete an incident report in a form approved by the Office of the Registrar, containing the student’s name and the particulars of the incident, and shall submit it to the Registrar who will advise the Dean of the Faculty concerned and the Chair of the student's program or department where applicable. The Registrar shall notify the student by registered letter and/or electronic mail of the regulations governing plagiarism, the possible consequences, the student’s right to appeal, the right to appear before the appropriate appeals committee, and the procedures involved. A student appealing the charge of an academic offence must do so in writing within three weeks of the date of the Registrar's letter of notification. On receiving an incident report alleging an act of deliberate plagiarism, or on receiving an incident report alleging a second commission of plagiarism by the student which is determined viewed by the instructor to be as a result of genuine misunderstanding, the Registrar shall refer the matter for a hearing to the appropriate appeals committee. A student who wishes to respond to this allegation is urged to submit to the appeals committee a written statement regarding the case within three weeks of the date of the Registrar’s letter of notification. The Registrar shall inform the student by registered letter or electronic mail of the referral to the appeals committee, and the wish of the Committee that the student be present when the case is heard.
 
 - The appropriate appeals committee, upon the conclusion of a hearing into the case, or following the review of the written materials if the student does not appear, must make one or more of the following findings prior to proceeding to an assessment of a penalty for deliberate plagiarism.
 
@@ -119,7 +115,7 @@ In the case of plagiarism, the instructor must make every reasonable effort to d
 
 ##### Penalties for Deliberate Plagiarism
 
-In case of deliberate plagiarism, the penalties are:
+In the case of deliberate plagiarism, the penalties are:
 
 First Offence: If the student does not appeal or if, on appeal, the Committee upholds the instructor's allegation:
 
@@ -139,13 +135,13 @@ First Offence: If the student does not appeal or if, on appeal, the Committee up
 
 ### B. OTHER ACADEMIC OFFENCES
 
-Cheating on examination, tests, assignments or reports, including but not limited to:
+Cheating on examinations, tests, assignments or reports, including but not limited to:
 
 - Impersonating a candidate at an examination or test or in connection with any assignment in a course or availing oneself of the results of impersonation.
 
 - Obtaining, through theft, bribery, collusion, purchase, or other improper manner,
 
-    1. an examination or test paper prior to the date and time for writing the examination or test;
+    1. an examination or test paper before the date and time for writing the examination or test;
 
     2. academic materials belonging to another person, e.g. laboratory reports, assignments, papers, computer materials, datasets.
 
@@ -165,7 +161,7 @@ Cheating on examination, tests, assignments or reports, including but not limite
 
 The instructor and, where applicable, the invigilator or other appropriate person shall, where practical, discuss the matter with the student concerned.
 
-The instructor or the instructor's representative, if satisfied that an academic offence has been committed, shall complete an academic offence incident report and shall submit it, together with attached information, to the Registrar. The Registrar shall report it to the Chair of the Department (where applicable) and the Dean of the Faculty concerned. Each case will be referred by the Registrar to the appropriate Committee for review and appropriate action. The Registrar shall inform the student by registered letter and/or electronic mail of the referral to the Committee, the student's right to respond, the wish of the Committee that the student be present when the case is heard, and the procedures involved. A copy of the academic offence report and attached information will be provided to the student in a timely manner. The student is urged to submit to the Committee a written statement regarding the case. A student responding to the decision, shall do so in writing within three weeks of the date of the Registrar's letter of notification.
+The instructor or the instructor's representative, if satisfied that an academic offence has been committed, shall complete an academic offence incident report and shall submit it, together with attached information, to the Registrar. The Registrar shall report it to the Chair of the Department (where applicable) and the Dean of the Faculty concerned. Each case will be referred by the Registrar to the appropriate Committee for review and appropriate action. The Registrar shall inform the student by registered letter and/or electronic mail of the referral to the Committee, the student's right to respond, the wish of the Committee that the student be present when the case is heard, and the procedures involved. A copy of the academic offence report and attached information will be provided to the student in a timely manner. The student is urged to submit to the Committee a written statement regarding the case. A student responding to the decision shall do so in writing within three weeks of the date of the Registrar's letter of notification.
 
 #### Penalties for Other Offences
 

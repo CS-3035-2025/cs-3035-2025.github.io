@@ -57,7 +57,9 @@ A new textbook is being prepared for this course, so some readings may be provid
 * [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) (can skip tsc compiler setup)
 * [TypeScript Tutorial for Beginners Video(Programming with Mosh)](https://youtu.be/d56mG7DezGs?si=hyzCpU2m0eoUqxOp) (can skip tsc compiler setup, 7:50 – 23:00)
 
+#### SimpleKit
 
+* [Read the code on GitHub](https://github.com/CS-3035-2024/simplekit/tree/main/src)
 
 ### Important References
 

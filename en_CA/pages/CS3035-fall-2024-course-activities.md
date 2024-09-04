@@ -65,20 +65,20 @@ Activities are coding assignments that are completed in two parts.
 |------|-------|
 | 09/13| Last day for adding courses |
 | 09/16| Activity 1 due |
-| 09/16| Activity 2 due |
-| 09/23| Activity 3 due |
+| 09/23| Activity 2 due |
 | 09/30| Truth and Reconciliation Day |
-| 09/31| Activity 4 due |
-| 10/07| Activity 5 due |
+| 09/31| Activity 3 due |
+| 10/07| Activity 4 due |
 | 10/08| Group Project Due |
 | 10/10| Group Project Watch/Q&A |
 | 10/14| Thanksgiving Monday |
-| 10/21| Activity 6 due |
-| 10/28| Activity 7 due |
+| 10/21| Activity 5 due |
+| 10/28| Activity 6 due |
 | 10/30| Project 1 due |
-| 11/04| Activity 8 due |
+| 11/04| Activity 7 due |
 | 11/11-15| Reading Week |
-| 11/18| Activity 9 due |
-| 11/25| Activity 10 due |
+| 11/18| Activity 8 due |
+| 11/25| Activity 9 due |
+| 12/02| Activity 10 due |
 | 12/05| Last Class |
 | 12/06| Project 2 due |

@@ -10,11 +10,11 @@ Basic approaches and techniques for implementing human-computer interfaces. Basi
 
 ### More Details
 
-This course provides important background building graphical user interfaces, with some general background on design. We will cover conceptual and practical aspects of many of the aspects of GUI design and implementation. This year we will focus on coding in JavaFX, using both purely procedural code and mark-up. We will contrast approaches for basic implementation using other languages and toolkits such as Python/Tkinter, HTML/CSS/JavaScript, and Android/Java.
+This course provides important background in building graphical user interfaces, with some general background on design. We will cover conceptual and practical aspects of GUI design and implementation. This year we will focus on coding in JavaFX, using both purely procedural code and mark-up. We will contrast approaches for basic implementation using other languages and toolkits such as Python/Tkinter, HTML/CSS/JavaScript, and Android/Java.
 
 This course is a complement to:
 
-- **CS 3025**: Human-Computer Interaction, which could be called Designing and Evaluating User Interfaces and focuses on discovering and identifying user needs/requirements, interface design and practical system evaluation), and
+- **CS 3025**: Human-computer interaction, which could be called Designing and Evaluating User Interfaces and focuses on discovering and identifying user needs/requirements, interface design and practical system evaluation), and
 - **CS 4065**: Interactive Human-Centred Systems - which could be called Introduction to Research Methods in Human-Computer Interaction.
 
 ### Prerequisites
@@ -24,7 +24,9 @@ This course is a complement to:
 ## Class Time and Location
 
 - **Class Time**: 10:00am - 11:20am. Tuesday and Thursday. 
-- **Location**: [HC11](https://unb.university-tour.com/fredericton-campus#Head%20Hallhttp://es.unb.ca/apps/map/?map=1&location=609G) - Ground Floor on HeadHall extension.
+- **Location**:
+ - Tuesdays: [HC11](https://unb.university-tour.com/fredericton-campus#Head%20Hallhttp://es.unb.ca/apps/map/?map=1&location=609G) - Ground Floor on HeadHall extension.
+ - Thursdays: ITC 314 and 315
   
 ### Recording of Class Time
 
@@ -32,7 +34,7 @@ All in-person lectures will (attempted to) be recorded, but will only be availab
 
 ## Instructor and Contact
 
-- For more detail on Contact please see the [contact details on the course website](CS3035-fall-2024-course-activities.md).
+- For more details on Contact, please see the [contact details on the course website](CS3035-fall-2024-course-activities.md).
 
 ## Course Work and Marking Scheme (Tentative)
 
@@ -40,7 +42,7 @@ See [course work details](CS3035-fall-2024-course-activities.md#Course_Work_Deta
 
 ## Text Books
 
-There is no official textbook for this course. Course slides, example code and online readings will be provided and referred to during classtime. Students are strongly encouraged to take notes as study aids.
+There is no official textbook for this course. Course slides, example code and online readings will be provided and referred to during class time. Students are strongly encouraged to take notes as study aids.
 
 A new textbook is being prepared for this course, so some readings may be provided drawn from the textbook in progress.
 
@@ -91,7 +93,7 @@ Academic offences include, but are not limited to, the following:
 Plagiarism includes:
 
 - quoting verbatim or almost verbatim from any source, regardless of format, without acknowledgement;
-- adopting someone else's line of thought, argument, arrangement, or supporting evidence (such as, statistics, bibliographies, etc.) without indicating such dependence;
+- adopting someone else's line of thought, argument, arrangement, or supporting evidence (such as statistics, bibliographies, etc.) without indicating such dependence;
 - submitting someone else's work, in whatever form (essay, film, workbook, artwork, computer materials, etc.) without acknowledgement;
 - knowingly representing as one's own work any idea of another.
 NOTE: In courses which include group work, a penalty may be imposed on all members of the group unless an act of plagiarism is identified clearly with an individual student or students.
@@ -104,11 +106,11 @@ In the case of plagiarism, the instructor must make every reasonable effort to d
 
 - In a first plagiarism incident resulting from genuine misunderstanding, the instructor may permit the student to submit a genuine piece of work to be graded in place of the one plagiarized. If the student does not appeal, the time allowed for submission of work is three weeks from the date of the Registrar's letter of notification. In the case of an appeal, where the instructor's allegation is upheld, the period of time allowed for submission is as determined by the appropriate appeals committee.
 
-- If, in the view of the instructor the plagiarism was deliberate, the instructor shall complete an incident report in a form approved by the Office of the Registrar, containing the student’s name and the particulars of the incident, and shall submit it to the Registrar who will advise the Dean of the Faculty concerned and the Chair of the student's program or department where applicable. The Registrar shall notify the student by registered letter and/or electronic mail of the regulations governing plagiarism, the possible consequences, the student’s right to appeal, the right to appear before the appropriate appeals committee, and the procedures involved. A student appealing the charge of an academic offence must do so in writing within three weeks of the date of the Registrar's letter of notification. On receiving an incident report alleging an act of deliberate plagiarism, or on receiving an incident report alleging a second commission of plagiarism by the student which is determined viewed by the instructor to be as a result of genuine misunderstanding, the Registrar shall refer the matter for a hearing to the appropriate appeals committee. A student who wishes to respond to this allegation is urged to submit to the appeals committee a written statement regarding the case within three weeks of the date of the Registrar’s letter of notification. The Registrar shall inform the student by registered letter or electronic mail of the referral to the appeals committee, and the wish of the Committee that the student be present when the case is heard.
+- If, in the view of the instructor the plagiarism was deliberate, the instructor shall complete an incident report in a form approved by the Office of the Registrar, containing the student’s name and the particulars of the incident, and shall submit it to the Registrar who will advise the Dean of the Faculty concerned and the Chair of the student's program or department where applicable. The Registrar shall notify the student by registered letter and/or electronic mail of the regulations governing plagiarism, the possible consequences, the student’s right to appeal, the right to appear before the appropriate appeals committee, and the procedures involved. A student appealing the charge of an academic offence must do so in writing within three weeks of the date of the Registrar's letter of notification. On receiving an incident report alleging an act of deliberate plagiarism, or on receiving an incident report alleging a second commission of plagiarism by the student which is determined viewed by the instructor to be as a result of genuine misunderstanding, the Registrar shall refer the matter for a hearing to the appropriate appeals committee. A student who wishes to respond to this allegation is urged to submit to the appeals committee a written statement regarding the case within three weeks of the date of the Registrar’s letter of notification. The Registrar shall inform the student by registered letter or electronic mail of the referral to the appeals committee and the wish of the Committee that the student be present when the case is heard.
 
-- The appropriate appeals committee, upon the conclusion of a hearing into the case, or following the review of the written materials if the student does not appear, must make one or more of the following findings prior to proceeding to an assessment of a penalty for deliberate plagiarism.
+- The appropriate appeals committee, upon the conclusion of a hearing into the case or following the review of the written materials if the student does not appear, must make one or more of the following findings prior to proceeding to an assessment of a penalty for deliberate plagiarism.
 
-- i.  On hearing a case involving a first incident report alleging that a student has committed an act of deliberate plagiarism, the appeals committee must first decide whether an act of plagiarism has occurred. If the Committee so finds, the Committee must then determine whether the plagiarism was deliberate, or an act of genuine misunderstanding. If the former, the appeals committee will proceed to assess penalties in accordance with this Regulation, if the latter, the appeals committee will assess no penalty, but will direct the Registrar to note in the student’s academic file that the student has had one finding of genuine misunderstanding.
+- i.  On hearing a case involving a first incident report alleging that a student has committed an act of deliberate plagiarism, the appeals committee must first decide whether an act of plagiarism has occurred. If the Committee so finds, the Committee must then determine whether the plagiarism was deliberate or an act of genuine misunderstanding. If the former, the appeals committee will proceed to assess penalties in accordance with this Regulation, if the latter, the appeals committee will assess no penalty, but will direct the Registrar to note in the student’s academic file that the student has had one finding of genuine misunderstanding.
 
 - ii. If the case before the appeals committee (i) follows a prior finding of plagiarism, or (ii) is a second allegation of plagiarism as a result of genuine misunderstanding, the appeals committee may not make a further finding of genuine misunderstanding in disposing of the case. The appeals committee may only make a finding that the alleged act of plagiarism was deliberate plagiarism or that the alleged act of plagiarism was not an act of plagiarism.
 
@@ -160,7 +162,7 @@ Cheating on examinations, tests, assignments or reports, including but not limit
 
 The instructor and, where applicable, the invigilator or other appropriate person shall, where practical, discuss the matter with the student concerned.
 
-The instructor or the instructor's representative, if satisfied that an academic offence has been committed, shall complete an academic offence incident report and shall submit it, together with attached information, to the Registrar. The Registrar shall report it to the Chair of the Department (where applicable) and the Dean of the Faculty concerned. Each case will be referred by the Registrar to the appropriate Committee for review and appropriate action. The Registrar shall inform the student by registered letter and/or electronic mail of the referral to the Committee, the student's right to respond, the wish of the Committee that the student be present when the case is heard, and the procedures involved. A copy of the academic offence report and attached information will be provided to the student in a timely manner. The student is urged to submit to the Committee a written statement regarding the case. A student responding to the decision shall do so in writing within three weeks of the date of the Registrar's letter of notification.
+The instructor or the instructor's representative, if satisfied that an academic offence has been committed, shall complete an academic offence incident report and shall submit it, together with the attached information, to the Registrar. The Registrar shall report it to the Chair of the Department (where applicable) and the Dean of the Faculty concerned. Each case will be referred by the Registrar to the appropriate Committee for review and appropriate action. The Registrar shall inform the student by registered letter and/or electronic mail of the referral to the Committee, the student's right to respond, the wish of the Committee that the student be present when the case is heard, and the procedures involved. A copy of the academic offence report and attached information will be provided to the student in a timely manner. The student is urged to submit to the Committee a written statement regarding the case. A student responding to the decision shall do so in writing within three weeks of the date of the Registrar's letter of notification.
 
 #### Penalties for Other Offences
 

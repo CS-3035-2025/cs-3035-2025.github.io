@@ -25,8 +25,8 @@ This course is a complement to:
 
 - **Class Time**: 10:00am - 11:20am. Tuesday and Thursday. 
 - **Location**:
- - Tuesdays: [HC11](https://unb.university-tour.com/fredericton-campus#Head%20Hallhttp://es.unb.ca/apps/map/?map=1&location=609G) - Ground Floor on HeadHall extension.
- - Thursdays: ITC 314 and 315
+ -- Tuesdays: [HC11](https://unb.university-tour.com/fredericton-campus#Head%20Hallhttp://es.unb.ca/apps/map/?map=1&location=609G) - Ground Floor on HeadHall extension.
+ -- Thursdays: ITC 314 and 315
   
 ### Recording of Class Time
 

@@ -44,22 +44,21 @@ There is no official textbook for this course. Course slides, example code and o
 
 A new textbook is being prepared for this course, so some readings may be provided drawn from the textbook in progress.
 
-### Good Tutorials
+### Good References
 
-- [Oracle Getting Started with JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/index.html)
-- [Oracle Introduction to FXML](https://docs.oracle.com/javase/8/javafx/api/javafx/fxml/doc-files/introduction_to_fxml.html)
-- [Good set of simple how-to's for various interface components](http://tutorials.jenkov.com/javafx/index.html)
-- [Tutorial on JavaFX CSS](https://www.tutorialspoint.com/javafx/javafx_css.htm)
-- [Good setup tutorials for a very similar setup to what we will be using](https://code.makery.ch/library/javafx-tutorial/)
-- [Tutorial Videos on YouTube](https://www.youtube.com/playlist?list=PL4h6ypqTi3RR_bhBk6PtLfD83YkaJXXxw)
+#### JavaScript
+* [MDN Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+* [Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+
+#### TypeScript
+* [TypeScript for Java/C# Programmers](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html)
+* [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) (can skip tsc compiler setup)
+* [TypeScript Tutorial for Beginners Video(Programming with Mosh)](https://youtu.be/d56mG7DezGs?si=hyzCpU2m0eoUqxOp) (can skip tsc compiler setup, 7:50 – 23:00)
+
+
 
 ### Important References
 
-- [JavaFX Documentation Project](https://fxdocs.github.io/docs/html5/)
-- [Getting Started with JavaFX](https://openjfx.io/openjfx-docs/)
-- [Java 17 API](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
-- [JavaFX 17 API](https://openjfx.io/javadoc/17/)
-- [JavaFX CSS Reference Guide](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/doc-files/cssref.html)
 
 ## Class Policies
 

@@ -24,7 +24,7 @@ For example, accepting ```https://github.com/CS-3035-2024/Project``` a new repo 
 
 ### Git and VS Code
 
-We'll primarily use Git in VS code and the integrated VS Code terminal environment.
+We'll primarily use Git in VS Code and the integrated VS Code terminal environment.
 
 To open your repo in **VS Code**, do the following:
 
@@ -55,7 +55,7 @@ Once these steps are complete, you don't have to re-run them if you close and re
 Once the project is prepared, you can run the project by entering the following:
 
 - ```npm run dev```
-- or, by using the Run button in VSCode
+- or, by using the ```Run``` button in VS Code
   
 This will activate the Vite module, which starts a local dev server and provides you with a 'LocalHost' web address, which you can paste into Chrome and view the project. The dev server will re-transpile as you make changes to the TypeScript files, but if you wish to stop the server, just press ```Q + Enter``` in the terminal.
 
@@ -77,6 +77,7 @@ For convenience, we have also set up an example that will be your first in-class
 - Once you have completed all of your changes, you need to commit to them.
 
 Note: Before you can push your repo to GitHub, you will need to set your email and username for verification. You only need to do so once on any machine you use, and you can do so via these commands:
+
 - ```git config --global user.email *your@githubemailaddress.com*```
 - ```git config --global user.name *yourGithubUsername*```
 
@@ -89,4 +90,4 @@ Afterwards, you can proceed to commit and push your changes.
   - type ```git push``` to update your GitHub repo with your new changes.
 - Finally, visit your Repo on GitHub to make sure your changes have been pushed.
 
-Here [Link] is the invitation link for the starter activity.
+Here is the invitation link for the starter activity. (well, it will be soon)

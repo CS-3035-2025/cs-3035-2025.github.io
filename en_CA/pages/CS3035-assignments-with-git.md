@@ -5,13 +5,13 @@ We will be using Git to access example code, fetch activities, and submit work o
 You will need to ensure [Git is installed](https://git-scm.com/downloads) and you have a working [GitHub account](https://github.com/join), if you don't already have one, to perform the steps below and to submit work in the course.
 
 We ask that you follow these below carefully, and only stray from them if you know what you are doing.
-There are lots of great git learning resources online, like the free [Pro Git Book](https://git-scm.com/book/en/v2).
+There are lots of great git learning resources online, like the free [Pro Git Book](https://git-scm.com/book/en/v2), if you would like to learn more.
 
 ## Example Code
 
-To access example code for the course, there is a repository setup on the course's [Github (classroom?) page](https://CS-3035-2024.github.com). (link needed)
+To access example code for the course, there is a repository setup on the course's [Github Example Repo](https://github.com/CS-3035-2024/examples). 
 
-This repository will provide you with examples to get you started and provide additional context for topics we have covered in class. The code in the repository will grow and change over time, so you will want to regularly "pull" changes and new code so that you have the latest versions. You can also "watch" the repository by "starring" it on the GitHub website.
+This repository will provide you with examples to get you started and provide additional context for topics we have covered in class. The code in the repository will grow and change over time, so you will want to regularly "pull" changes and new code so that you have the latest versions. You can also "watch" the repository by "starring" it on the GitHub website so that you can be notified of any changes.
 
 **Remember** to pull the code from the examples repo often, as new examples will be added as the course progresses.
 
@@ -20,11 +20,11 @@ This repository will provide you with examples to get you started and provide ad
 Each of the class's activities, examples, and projects will be hosted on Git Hub, and you will be provided with an invite link to each as they become available.
 
 After accepting the invite to the repo in question, a fork (new copy) of that repo will be made for you to use.
-For example, accepting ```https://github.com/CS-3035-2024/Project``` a new repo called ```https://github.com/CS-3035-2024/Project-YourName``` will be made for you.
+For example, accepting ```https://github.com/CS-3035-2024/Project``` a new repo called ```https://github.com/CS-3035-2024/Project-YourUserName``` will be created for you. Only you and the course instructors and TAs will have access to your repos.
 
 ### Git and VS Code
 
-We'll be using Git primarily in VS code and the integrated VS Code terminal environment.
+We'll primarily use Git in VS code and the integrated VS Code terminal environment.
 
 To open your repo in **VS Code**, do the following:
 
@@ -43,7 +43,7 @@ Once you have a repo open, a few steps are needed to get it ready to run and edi
 - However, first, you must initialize the submodule and update the repo by running:
 - ```git submodule init```
 - ```git submodule update```
-- Iff this doesn't work, you may need to read the submodule first by running the following:
+- If this doesn't work, you may need to read the submodule first by running the following:
 - ```git submodule add https://github.com/CS-3035-2024/simplekit``` before running the above commands
 - After this, SimpleKit will be ready to use. Next, you just have to install the NPM packages that have already been set up for you. Just run:
 - ```npm install```
@@ -55,8 +55,9 @@ Once these steps are complete, you don't have to re-run them if you close and re
 Once the project is prepared, you can run the project by entering the following:
 
 - ```npm run dev```
+- or, by using the Run button in VSCode
   
-This will activate the Vite module, which starts a local dev server and provides you with a 'LocalHost' web address, which you can type into Chrome and view the project. The dev server will re-transpile as you make changes to the TypeScript files, but if you wish to stop the server, just press Q+Enter in the terminal.
+This will activate the Vite module, which starts a local dev server and provides you with a 'LocalHost' web address, which you can paste into Chrome and view the project. The dev server will re-transpile as you make changes to the TypeScript files, but if you wish to stop the server, just press ```Q + Enter``` in the terminal.
 
 ## Activities
 
@@ -64,7 +65,7 @@ Activities will be hosted and submitted on GitHub. You will need to follow the i
 
 For convenience, we have also set up an example that will be your first in-class activity.
 
-***Instructions*** will always be found in the repository's readme file.
+***Instructions*** will always be found in the repository's README.md file.
 
 - For each activity, you will be provided a repository invitation link.
 - You will follow the link, log in to GitHub (if you are not already logged in), and accept the invitation.

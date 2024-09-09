@@ -10,7 +10,7 @@ Basic approaches and techniques for implementing human-computer interfaces. Basi
 
 ### More Details
 
-This course provides important background in building graphical user interfaces, with some general background on design. We will cover conceptual and practical aspects of GUI design and implementation. This year we will focus on coding in JavaFX, using both purely procedural code and mark-up. We will contrast approaches for basic implementation using other languages and toolkits such as Python/Tkinter, HTML/CSS/JavaScript, and Android/Java.
+This course provides important background in building graphical user interfaces, with some general background on design. We will cover conceptual and practical aspects of GUI design and implementation. This year we will focus on coding in Typescript with HTML & CSS, using both purely procedural code and mark-up. We will contrast approaches for basic implementation using other languages and toolkits such as Python/Tkinter, and Android/Java.
 
 This course is a complement to:
 

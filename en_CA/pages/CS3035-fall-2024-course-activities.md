@@ -67,7 +67,7 @@ Activities are coding assignments that are completed in two parts.
 | 09/16| Activity 1 due |
 | 09/23| Activity 2 due |
 | 09/30| Truth and Reconciliation Day |
-| 09/31| Activity 3 due |
+| 10/01| Activity 3 due |
 | 10/07| Activity 4 due |
 | 10/08| Group Project Due |
 | 10/10| Group Project Watch/Q&A |

@@ -5,11 +5,10 @@
 This year the course is being co-taught by three instructors:
  - Scott Bateman 
  - Cole Campbell
- - Colin Brett
 
 ## Contact
 
-- A team message addressed to all three instructors is the preferred contact method. You can do this by clicking here: [Chat with instructors](https://teams.microsoft.com/l/chat/0/0?users=scottb@unb.ca,colin.brett@unb.ca,cole.campbell@unb.ca)
+- A team message addressed to all three instructors is the preferred contact method. You can do this by clicking here: [Chat with instructors](https://teams.microsoft.com/l/chat/0/0?users=scottb@unb.ca,cole.campbell@unb.ca)
 - Please allow up to one to two working days for response.
 - Asking questions on Teams may also allow your classmates or TA to help with questions regarding technology or other clarifications. So, this is highly encouraged. Please use the appropriate channel in our class Team for your question.
 
@@ -29,10 +28,11 @@ Below is an overview of the coursework.
 
 The grading scheme and number of items in the grade (in parentheses) are tentative and subject to reasonable adjustments. Please take a look at the syllabus for details on missed or late work for assessment.
 
-- Individual Projects (2 projects): 40%
+- Individual Projects (2 projects): 30%
 - Group Video Presentation of Alternative UI Technology (1): 10% 
-- Quizzes (in-lab) (10 quizzes): 20% 
-- Activities (10 activities): 30%
+- Quizzes (in-class) (10 quizzes): 20% 
+- Activities (8 activities): 20%
+- Final Exam: 20%
 
 ### Projects
 
@@ -63,7 +63,7 @@ Activities are coding assignments that are completed in two parts.
 
 | Date | Item  |
 |------|-------|
-| 09/13| Last day for adding courses |
+| 09/12| Last day for adding courses |
 | 09/16| Activity 1 due |
 | 09/23| Activity 2 due |
 | 09/30| Truth and Reconciliation Day |
@@ -71,14 +71,14 @@ Activities are coding assignments that are completed in two parts.
 | 10/07| Activity 4 due |
 | 10/08| Group Project Due |
 | 10/10| Group Project Watch/Q&A |
-| 10/14| Thanksgiving Monday |
+| 10/13| Thanksgiving Monday |
 | 10/21| Activity 5 due |
 | 10/28| Activity 6 due |
 | 10/30| Project 1 due |
 | 11/04| Activity 7 due |
-| 11/11-15| Reading Week |
+| 11/10-14| Reading Week |
 | 11/18| Activity 8 due |
 | 11/25| Activity 9 due |
 | 12/02| Activity 10 due |
-| 12/05| Last Class |
-| 12/06| Project 2 due |
+| 12/09| Last Class |
+| 12/09| Project 2 due |

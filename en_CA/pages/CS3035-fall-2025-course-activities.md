@@ -2,7 +2,7 @@
 
 ## Instructors
 
-This year the course is being co-taught by three instructors:
+This year the course is being co-taught by two instructors:
  - Scott Bateman 
  - Cole Campbell
 

@@ -1,4 +1,4 @@
-# CS 3035 - Building User Interfaces - Fall 2024
+# CS 3035 - Building User Interfaces - Fall 2025
 
 ## Faculty of Computer Science - University of New Brunswick
 

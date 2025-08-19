@@ -18,7 +18,7 @@ This year the course is being co-taught by two instructors:
 
 ## Class Times
 
-See [class times on the course outline.](https://cs-3035-2024.github.io/en_CA/#!pages/CS3035-fall-2024-syllabus.md#Class_Time_and_Location)
+See [class times on the course outline.](/en_CA/#!pages/CS3035-fall-syllabus.md#Class_Time_and_Location)
 
 ## Course Work Details
 
@@ -31,7 +31,7 @@ The grading scheme and number of items in the grade (in parentheses) are tentati
 - Individual Projects (2 projects): 30%
 - Group Video Presentation of Alternative UI Technology (1): 10% 
 - Quizzes (in-class) (10 quizzes): 20% 
-- Activities (8 activities): 20%
+- Activities (5 activities): 20%
 - Final Exam: 20%
 
 ### Projects
@@ -52,10 +52,7 @@ You must be in class to complete the quiz. Quizzes will start right at 10:00am a
 
 ### Activities
 
-Activities are coding assignments that are completed in two parts. 
-
-**Part 1** should be completed in class on Thursdays and verified by your instructor before you leave class. 
-**Part 2** should be completed by the end of Monday and submitted to Github.
+Activities are coding assignments that are completed independently by each student and submitted on GitHub. 
 
 ## Important Dates and Deliverable Deliverables
 
@@ -64,21 +61,17 @@ Activities are coding assignments that are completed in two parts.
 | Date | Item  |
 |------|-------|
 | 09/12| Last day for adding courses |
-| 09/16| Activity 1 due |
-| 09/23| Activity 2 due |
+| 09/? | Practice Activity due |
+| 09/? | Activity 1 due |
 | 09/30| Truth and Reconciliation Day |
-| 10/01| Activity 3 due |
-| 10/07| Activity 4 due |
-| 10/08| Group Project Due |
-| 10/10| Group Project Watch/Q&A |
+| 10/? | Activity 3 due |
+| 10/? | Activity 4 due |
+| 10/? | Group Project Due |
+| 10/? | Group Project Watch/Q&A |
 | 10/13| Thanksgiving Monday |
-| 10/21| Activity 5 due |
-| 10/28| Activity 6 due |
+| 10/? | Activity 5 due |
 | 10/30| Project 1 due |
-| 11/04| Activity 7 due |
 | 11/10-14| Reading Week |
-| 11/18| Activity 8 due |
-| 11/25| Activity 9 due |
-| 12/02| Activity 10 due |
-| 12/09| Last Class |
-| 12/09| Project 2 due |
+| 11/? | Project 2 due |
+| 12/09 | Last Class |
+

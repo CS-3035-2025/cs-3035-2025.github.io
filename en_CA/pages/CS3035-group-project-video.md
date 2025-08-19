@@ -37,7 +37,7 @@ Your 8-minute video will cover:
 
 You may work with anyone in the class you like. Your group should have 4-5 members. Groups of other sizes will not be possible. You should have a group identified by Oct. 4th. If you are not in a group by this time you must inform the instructor and you will be matched with a group during class time. 
 
-Working in a group can be challenging. Ir is your responsibility that you stay in contact with your group and keep them informed of your availability and progress on tasks. 
+Working in a group can be challenging. It is your responsibility that you stay in contact with your group and keep them informed of your availability and progress on tasks. 
 
 ## Choosing Technologies
 

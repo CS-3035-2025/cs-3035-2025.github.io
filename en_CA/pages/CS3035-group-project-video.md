@@ -87,7 +87,7 @@ Your video should adhere to the strict 8-minute time limit. Suggested timings fo
 
 ## Submission
 
-You should submit your group project by Friday. Yes, Friday, you get an extra day. 
+You should submit your group project by the due date. 
 
  - Upload your video to Microsoft Stream. 
 

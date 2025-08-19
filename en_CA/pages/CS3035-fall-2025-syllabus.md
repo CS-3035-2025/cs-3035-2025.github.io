@@ -34,11 +34,11 @@ All in-person lectures will (attempted to) be recorded, but will only be availab
 
 ## Instructor and Contact
 
-- For more details on Contact, please see the [contact details on the course website](CS3035-fall-2024-course-activities.md).
+- For more details on Contact, please see the [contact details on the course website](CS3035-fall-course-activities.md).
 
 ## Course Work and Marking Scheme (Tentative)
 
-See [course work details](CS3035-fall-2024-course-activities.md#Course_Work_Details).
+See [course work details](CS3035-fall-course-activities.md#Course_Work_Details).
 
 ## Text Books
 

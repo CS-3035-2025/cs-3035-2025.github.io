@@ -17,8 +17,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Syllabus](pages/CS3035-fall-2025-syllabus.md)
-[Activities and Dates](pages/CS3035-fall-2025-course-activities.md)
+[Syllabus](pages/CS3035-fall-syllabus.md)
+[Activities and Dates](pages/CS3035-fall-course-activities.md)
 [Software Setup](pages/CS3035-software-setup.md)
 [Git: Example Code & Assignments](pages/CS3035-assignments-with-git.md)
 

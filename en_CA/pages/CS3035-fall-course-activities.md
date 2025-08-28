@@ -30,7 +30,7 @@ The grading scheme and number of items in the grade (in parentheses) are tentati
 
 - Individual Projects (2 projects): 30%
 - Group Video Presentation of Alternative UI Technology (1): 10% 
-- Quizzes (in-class) (10 quizzes): 20% 
+- Quizzes (in-class) (8 quizzes): 20% 
 - Activities (5 activities): 20%
 - Final Exam: 20%
 
@@ -42,7 +42,7 @@ Projects should be completed using the course software (TypeScript/SimpleKit, VS
 
 ### Group Video Presentation
 
-The group video presentation will require you to independently research and learn the basics of an alternative UI technology for another language (other than TypeScript/SimpleKit or Java). You will work with a group to create a short video presentation introducing the technology, its philosophy, and its basic use. You will also individually watch videos from other students in the class and prepare a short submission outlining what you have learned. A few videos may be selected for class review. 
+The group video presentation will require you to independently research and learn the basics of an alternative UI technology for another language (other than TypeScript/SimpleKit or Java). You will work with a group to create a short video presentation introducing the technology, its philosophy, and its basic use. Your videos will be watched in class and your group is expected to be in attendance to answer questions about the technology you chose. Quizzes will include details from the group presentations.
 
 ### Quizzes
 
@@ -60,18 +60,27 @@ Activities are coding assignments that are completed independently by each stude
 
 | Date | Item  |
 |------|-------|
-| 09/12| Last day for adding courses |
-| 09/? | Practice Activity due |
-| 09/? | Activity 1 due |
-| 09/30| Truth and Reconciliation Day |
-| 10/? | Activity 3 due |
-| 10/? | Activity 4 due |
-| 10/? | Group Project Due |
-| 10/? | Group Project Watch/Q&A |
-| 10/13| Thanksgiving Monday |
-| 10/? | Activity 5 due |
-| 10/30| Project 1 due |
+| 09/12 | Last day for adding courses |
+| 09/17 | Practice Activity due |
+| 09/18 | Quiz 1 |
+| 09/24 | Activity 1 due |
+| 09/25 | Quiz 2 |
+| 09/30 | Truth and Reconciliation Day |
+| 10/01 | Activity 2 due |
+| 10/02 | Quiz 3 |
+| 10/08 | Activity 3 due |
+| 10/09 | Quiz 4 |
+| 10/10 | Group Project Due |
+| 10/13 | Thanksgiving Monday |
+| 10/22 | Activity 4 due |
+| 10/23 | Quiz 5 |
+| 10/29 | Activity 5 due |
+| 10/30 | Quiz 6 |
+| 11/05| Project due |
+| 11/06 | Quiz 7 |
 | 11/10-14| Reading Week |
-| 11/? | Project 2 due |
+| 11/20 | Quiz 8 |
+| 12/03 | Project 2 due |
 | 12/09 | Last Class |
+| TBD | Final Exam |
 

@@ -25,8 +25,7 @@ This course is a complement to:
 
 - **Class Time**: 10:00am - 11:20am. Tuesday and Thursday. 
 - **Location**:
-  - Tuesdays: [HC11](https://unb.university-tour.com/fredericton-campus#Head%20Hallhttp://es.unb.ca/apps/map/?map=1&location=609G) - Ground Floor on HeadHall extension.
-  - Thursdays: ITC 414 and 415
+  - [Kinesiology Building 201](https://unb.university-tour.com/fredericton-campus#Head%20Hallhttp://es.unb.ca/apps/map/?map=1&location=609G).
   
 ### Recording of Class Time
 
@@ -59,7 +58,7 @@ A new textbook is being prepared for this course, so some readings may be provid
 
 #### SimpleKit
 
-* [Read the code on GitHub](https://github.com/CS-3035-2024/simplekit/tree/main/src)
+* [Read the code on GitHub](https://github.com/CS-3035-2025/simplekit/tree/main/src)
 
 ### Important References
 

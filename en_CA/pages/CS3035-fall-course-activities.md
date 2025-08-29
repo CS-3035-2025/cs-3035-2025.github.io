@@ -14,7 +14,7 @@ This year the course is being co-taught by two instructors:
 
 ## Announcements and Teams
 
-[Teams]([https://teams.microsoft.com/l/team/19%3Ay30DlTrIWeAfV0uQJg-YmMDCpxCN9zu-nxFZVCEdLL41%40thread.tacv2/conversations?groupId=ac0fb7ba-6ef9-4615-9257-b5a224b90d63&tenantId=244e6ed2-339a-47f3-b95c-e45351c198b7](https://teams.microsoft.com/l/channel/19%3A6o1xmUyhGAjIMJH8BRXdiz4F6OQwQptp9PjMh2iifFA1%40thread.tacv2/General?groupId=5bfea4ed-96f0-45d5-b4d4-dfdc5f985f67&tenantId=244e6ed2-339a-47f3-b95c-e45351c198b7)) will be used for class announcements. You should turn on your teams notifications for the Annoucements channel, which will only accept posts by the instructor or TAs.
+[Teams]([https://teams.microsoft.com/l/team/19%3Ay30DlTrIWeAfV0uQJg-YmMDCpxCN9zu-nxFZVCEdLL41%40thread.tacv2/conversations?groupId=ac0fb7ba-6ef9-4615-9257-b5a224b90d63&tenantId=244e6ed2-339a-47f3-b95c-e45351c198b7](https://teams.microsoft.com/l/channel/19%3A6o1xmUyhGAjIMJH8BRXdiz4F6OQwQptp9PjMh2iifFA1%40thread.tacv2/General?groupId=5bfea4ed-96f0-45d5-b4d4-dfdc5f985f67&tenantId=244e6ed2-339a-47f3-b95c-e45351c198b7) will be used for class announcements. You should turn on your teams notifications for the Annoucements channel, which will only accept posts by the instructor or TAs.
 
 ## Class Times
 

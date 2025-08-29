@@ -27,10 +27,6 @@ This course is a complement to:
 - **Location**:
   - [Kinesiology Building 201](https://unb.university-tour.com/fredericton-campus#Head%20Hallhttp://es.unb.ca/apps/map/?map=1&location=609G).
   
-### Recording of Class Time
-
-All in-person lectures will (attempted to) be recorded, but will only be available by private link to those who had made arrangements with the instructor before a given classtime, or in the case of emergencies that prevent class attendance. In some cases, due to technology or human errors, a class will not be recorded. In these cases, slides and instructor contact will be provided. Contact the instructor for the video link with a description of why the class was missed.  
-
 ## Instructor and Contact
 
 - For more details on Contact, please see the [contact details on the course website](CS3035-fall-course-activities.md).

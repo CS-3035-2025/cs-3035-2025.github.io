@@ -13,5 +13,5 @@ This website is meant to act as the main source for all course-related details.
 
 ### Links to Other Course Resources
 
-- [Course site on MS Teams](https://teams.microsoft.com/l/team/19%3Ay30DlTrIWeAfV0uQJg-YmMDCpxCN9zu-nxFZVCEdLL41%40thread.tacv2/conversations?groupId=ac0fb7ba-6ef9-4615-9257-b5a224b90d63&tenantId=244e6ed2-339a-47f3-b95c-e45351c198b7) - used for posting assignments and communications.
+- [Course site on MS Teams](https://teams.microsoft.com/l/team/19%3A6o1xmUyhGAjIMJH8BRXdiz4F6OQwQptp9PjMh2iifFA1%40thread.tacv2/conversations?groupId=5bfea4ed-96f0-45d5-b4d4-dfdc5f985f67&tenantId=244e6ed2-339a-47f3-b95c-e45351c198b7) - used for posting assignments and communications.
 - [Course GitHub Organization](https://github.com/CS-3035-2025) - used for submitting assignments, sharing code examples, and hosting this site.

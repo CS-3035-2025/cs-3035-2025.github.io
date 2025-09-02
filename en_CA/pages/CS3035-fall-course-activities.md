@@ -54,6 +54,10 @@ You must be in class to complete the quiz. Quizzes will start right at 10:00am a
 
 Activities are coding assignments that are completed independently by each student and submitted on GitHub. 
 
+### Final Exam
+
+The final exam will take place during the university's exam period and will be scheduled by the Registrar’s Office. The final exam is cumulative and will cover material from the entire term, and could include multiple choice, T/F, matching, and written questions. Further details will be provided closer to the exam period. 
+
 ## Important Dates and Deliverable Deliverables
 
 **NOTE: All dates are tentative and are used as general targets.** Date adjustments will be made as needed, giving you additional time to avoid major conflicts. Adjustments to these dates will be announced in lectures.  

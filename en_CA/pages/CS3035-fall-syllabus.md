@@ -55,8 +55,6 @@ A new textbook is being prepared for this course, so some readings may be provid
 
 * [Read the code on GitHub](https://github.com/CS-3035-2025/simplekit/tree/main/src)
 
-### Important References
-
 
 ## Class Policies
 
@@ -77,6 +75,125 @@ See above (Late Assignments)
 ### Missed Tests and Other In-Class Activities
 
 If a quiz or other in-class assessment is missed, students must contact the instructor and as soon as possible. If a valid reason is provided for the missed activity, grades will likely be shifted to other items in the same grade category. Rescheduling these activities will likely not be feasible.
+
+## AI Usage in this Course Statement
+
+This AI Usage Statements been adapted and expanded upon from the personal AI statements
+of Dr. Matt McGuire, Connor Wilson, and informed by the "Guiding
+Principles for the Use of Generative AI at UNB".
+
+### Instructor Use of AI
+
+To the best of the knowledge of the teaching team, generative artificial
+intelligence (AI) has not been used to develop the main content of this
+course (i.e., it may have been used in support of authoring by
+clarifying ideas, providing feedback, or brainstorming, but no content
+comes directly from AI other than some cited multimedia content). All
+materials are authored by the teaching team, our trusted colleagues, or
+drawn from referenced sources such as a textbook, research articles, or
+other scholarly work.
+
+### Ownership and Privacy
+
+Student work is the intellectual property of the student. The teaching
+team will not upload student submissions to external AI platforms.
+
+Teaching assistants will be informed that they should not use AI tools
+to grade or provide feedback on student work.
+
+Course materials are owned by the professors or the cited
+authors/sources. Students are not permitted to upload course content
+(slides, assignments, readings, etc.) to external AI tools or platforms.
+
+### Student Use of AI
+
+Generative AI tools (e.g., GitHub Copilot, ChatGPT, Copilot in VS Code)
+can sometimes support learning in programming courses, but they must be
+used thoughtfully and ethically. The purpose of this course is for you
+to develop problem-solving and coding skills. AI should support your
+learning process, not replace it. If you\'re using AI tools for coding
+assistance, debugging, or as a brainstorming tool, it's important to
+remember that "Generative AI is not an author and should only be used to
+improve code quality and readability, with caution." Importantly, if a
+student is ever in doubt about the appropriate use of AI in this course,
+then they should ask they professor(s).
+
+#### Permitted Uses (with disclosure):\
+You may use AI tools in the following ways, provided you document how
+you used them:
+
+-   **Brainstorming approaches to a programming problem** (e.g., asking
+    AI to outline different algorithmic strategies).
+
+-   **Clarifying syntax or library usage** (e.g., "show me how to center
+    align a button in a pane").
+
+-   **Debugging assistance** (e.g., suggesting possible reasons for a
+    compiler error, but you must verify and test fixes yourself).
+
+-   **Explaining concepts** (e.g., asking for an explanation of
+    recursion).
+
+-   **Code formatting and cleanup** (e.g., assistance in and feedback on
+    formatting code and guidance on how it might be used).
+
+-   **Help manage projects and tasks**, by providing assistance with
+    tools including version control and collaboration tools.
+
+-   **Gather and organize research materials** related to software
+    development and computer science topics.
+
+-   **Generation of Multimedia Content** in support of your programming
+    projects (e.g., icons or images) that are not core concepts of the
+    course. These should be well cited (see below).
+
+#### Not Permitted:\
+AI tools must not be used as a shortcut to bypass core learning.
+Specifically, you may not:
+
+-   **Submit AI-generated solutions as your own** work (e.g., copying
+    and pasting full code solutions).
+
+-   **Rely on AI for algorithm design** without understanding the
+    reasoning or being able to explain it.
+
+-   **Perform analysis and interpretation that requires critical
+    thinking and understanding** of the subject matter.
+
+-   **Use AI to generate assessment answers** (code, text, or other for
+    assignments, projects, or exams) without explicit permission.
+
+-   **Upload assignment instructions or your own solutions to public AI
+    tools** that store data, since these risks sharing intellectual
+    property.
+
+-   **Skip personal debugging and** **testing** by using AI fixes only.
+
+#### Student Responsibility:\
+When you use AI, you must:
+
+-   Clearly **acknowledge what tool you used and for what purpose**
+    (e.g., "Used ChatGPT to suggest possible approaches for handling
+    null values. Final solution written, tested, and verified by me.").
+
+-   Ensure that the final submission **reflects your own
+    understanding**: you should be able to explain every line of your
+    code without AI assistance.
+
+-   **Verify your solutions** for correctness and compliance with course
+    expectations.
+
+### Citing AI Use
+
+When you use AI in your coursework, you should include the following
+declaration of generative AI or other AI tool by clearly including the
+following:\
+*\[NAME TOOL / SERVICE\] was used in order to \[REASON\]. After using
+this tool/service, the author(s) reviewed and edited the content as
+needed and take full responsibility for the content. The author(s)
+believe that this fits into the course regulations for AI use because
+\[REASON\].*
+
 
 ## Academic Offences
 

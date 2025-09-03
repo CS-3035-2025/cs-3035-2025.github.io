@@ -80,7 +80,7 @@ The final exam will take place during the university's exam period and will be s
 | 10/23 | Quiz 5 |
 | 10/29 | Activity 5 due |
 | 10/30 | Quiz 6 |
-| 11/05| Project due |
+| 11/05| Project 1 due |
 | 11/06 | Quiz 7 |
 | 11/10-14| Reading Week |
 | 11/20 | Quiz 8 |

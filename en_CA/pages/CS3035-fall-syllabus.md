@@ -118,7 +118,7 @@ improve code quality and readability, with caution." Importantly, if a
 student is ever in doubt about the appropriate use of AI in this course,
 then they should ask they professor(s).
 
-#### Permitted Uses (with disclosure):\
+#### Permitted Uses (with disclosure):
 You may use AI tools in the following ways, provided you document how
 you used them:
 
@@ -147,7 +147,7 @@ you used them:
     projects (e.g., icons or images) that are not core concepts of the
     course. These should be well cited (see below).
 
-#### Not Permitted:\
+#### Not Permitted:
 AI tools must not be used as a shortcut to bypass core learning.
 Specifically, you may not:
 
@@ -169,7 +169,7 @@ Specifically, you may not:
 
 -   **Skip personal debugging and** **testing** by using AI fixes only.
 
-#### Student Responsibility:\
+#### Student Responsibility:
 When you use AI, you must:
 
 -   Clearly **acknowledge what tool you used and for what purpose**
@@ -187,7 +187,7 @@ When you use AI, you must:
 
 When you use AI in your coursework, you should include the following
 declaration of generative AI or other AI tool by clearly including the
-following:\
+following:
 *\[NAME TOOL / SERVICE\] was used in order to \[REASON\]. After using
 this tool/service, the author(s) reviewed and edited the content as
 needed and take full responsibility for the content. The author(s)

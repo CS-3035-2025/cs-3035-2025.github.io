@@ -1,23 +1,21 @@
 # Group Project - Video Presentation of Another Interface Building Technology
+ - ***Proposal/Group Due: September 23rd***
+ - ***Projet Due: Oct. 10th***
 
-
- - ***Proposal/Group Due: Oct 4th***
- - ***Projet Due: Nov. 1st***
-
-In a group, of four to five members, you will create a well-rehearsed and well-organized 8 minute video presenting an interface building technology other than one that uses Java, C#/XAML or one from another class you have taken (e.g., Unity, Android, etc). 
+In a group, of four to five members, you will create a well-rehearsed and well-organized 8 minute video presenting an interface building technology other than one that uses SimpleKit, Java (JavaFX/Swing), C#/XAML or one from another class you have taken (e.g., Unity, Godot, Android, etc). 
 
 ## Initial Action Items
 
- - You should have a group and a proposed technology/interface toolkit by Oct. 4th otherwise you will be assigned to a group in class
-
- - Once you have a group complete this form to register your group by Oct. 4th: [https://forms.office.com/r/YdVYKPhqc9]
+ - You should first work to find a group and a proposed technology/interface toolkit by the Proposal/Group due date.
+ - Ask your classmates before/after class and use the Random/Sharing channel on Teams to coordinate and for your groups
+ - Once you have a group complete this form to register your group by the Proposal/Group due date: [https://forms.cloud.microsoft/r/MC9ydJCm6r]
 
 
 ## Requirements 
 
 Your 8-minute video will cover:
 
- - An introductory title slide with the names of your group members and the name of the technology being presented. Shown on screen for approx 10 seconds. 
+ - An introductory title slide with the names of your group members and the name of the technology being presented. Shown on screen for approx 20 seconds. 
 
  - An introduction to the name of the language/technology and a brief overview of it's history (when was it developed, by whom and how did it evolve, etc.). approx. 30 seconds
 
@@ -29,13 +27,13 @@ Your 8-minute video will cover:
 
  - Does the language technology support applications that use an MVC architecture? Is it architecture independent or is it designed to support [another architecture](https://medium.com/@pinarkocak/mvc-mvp-and-mvvm-design-patterns-82317d6efeac) MVP, MVI, MVVM or VIPER... or something else!? Provide some explanation of how it supports a particular pattern. approx. 1 minute
 
- - Create a simple application that allows a user to play a game of paper rock, scissors using an appropriately designed interface. Demonstrate the game and provide a brief commentary on how difficult it was to create. Would it be easier in JavaFX? approx. 45 seconds
+ - Create a simple application that allows a user to play a game of paper rock, scissors using an appropriately designed interface. Demonstrate the game and provide a brief commentary on how difficult it was to create. approx. 45 seconds
 
- - Conclusion: provide a brief subjective assessment of the language. Did your group like the language/technology. Do you think it would be easier or more difficult to build applications with than JavaFX? approx. 45 seconds
+ - Conclusion: provide a brief subjective assessment of the language. Did your group like the language/technology. Do you think it would be easier or more difficult to build applications another technology? approx. 45 seconds
 
 ## Finding and Working in a Group
 
-You may work with anyone in the class you like. Your group should have 4-5 members. Groups of other sizes will not be possible. You should have a group identified by Oct. 4th. If you are not in a group by this time you must inform the instructor and you will be matched with a group during class time. 
+You may work with anyone in the class you like. Your group should have 4-5 members. Groups of other sizes will not be possible. You should have a group identified by the  If you are not in a group by this time you must inform the instructor and you will be matched with a group during class time. 
 
 Working in a group can be challenging. It is your responsibility that you stay in contact with your group and keep them informed of your availability and progress on tasks. 
 
@@ -43,7 +41,7 @@ Working in a group can be challenging. It is your responsibility that you stay i
 
 A limit of two groups will be able to do a presentation of the same technology. This will be awarded on a first-come, first-served basis. 
 
-You will need to confirm your choice of technology and register your group with the instructor by completing this form as soon as possible, but no later than Oct 4th: [https://forms.office.com/r/YdVYKPhqc9]
+You will need to confirm your choice of technology and register your group with the instructor by completing the form above as soon as possible.
 
 Here are some examples of toolkit you might choose. Often interface toolkits have bindings for different languages. For example, Tk is often paired with tcl, Python, and Ruby. The language you use is up to you, but  it should be a language other than Java. 
 
@@ -89,10 +87,7 @@ Your video should adhere to the strict 8-minute time limit. Suggested timings fo
 
 You should submit your group project by the due date. 
 
- - Upload your video to Microsoft Stream. 
+ - Upload your video or provide a link to your video online to the Dropbox on D2L.
 
- - Set the video to be visible to everyone in my organization. 
-
- - Submit the link along with your team details to the link below:
-https://forms.office.com/r/Q21qkEK882
+ - Please make sure your video is visible publicly in case of posting it online. 
 

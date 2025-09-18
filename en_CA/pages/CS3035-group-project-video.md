@@ -8,7 +8,8 @@ In a group, of four to five members, you will create a well-rehearsed and well-o
 
  - You should first work to find a group and a proposed technology/interface toolkit by the Proposal/Group due date.
  - Ask your classmates before/after class and use the Random/Sharing channel on Teams to coordinate and for your groups
- - Once you have a group complete this form to register your group by the Proposal/Group due date: [https://forms.cloud.microsoft/r/MC9ydJCm6r]
+ - Once you have a group complete the registration form to register your group by the Proposal/Group due date. You will need your teammates names.
+ - Link to registration (only one person should submit per team): [https://forms.cloud.microsoft/r/MC9ydJCm6r]
 
 
 ## Requirements 
